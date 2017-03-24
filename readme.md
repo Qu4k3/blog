@@ -1,1 +1,1 @@
-## Simple Blog testing :)
+## Simple Blog testing
