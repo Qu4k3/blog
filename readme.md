@@ -1,1 +1,1 @@
-## Simple Blog testing
+## Creation of a blog (testing)
